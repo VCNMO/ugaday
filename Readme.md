@@ -9,3 +9,6 @@
 
 
 для новой строки нужна одна пустая строка 
+
+[!CAUTION]
+Negative potential consequences of an action.
