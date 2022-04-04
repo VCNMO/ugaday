@@ -10,5 +10,4 @@
 
 для новой строки нужна одна пустая строка 
 
->[!CAUTION]
->Negative potential consequences of an action.
+>справка по markdown https://docs.microsoft.com/ru-ru/contribute/markdown-reference
